@@ -1,6 +1,6 @@
 # Wavelet Transform based Seq2Seq Model for Time Series Forecasting
 
-This is a instance for sequence to sequence model for time series forecasting, including the straightaway implement of MLP, RNN, CNN, LSTM, GRU, TCN, VAR, Wavelet (which converts the 1-dim tiem-series into 2-dim time-frequency diagram then put the Seq2Seq model on it for forecasting) with Pytorch.
+This is a instance for sequence to sequence model for time series forecasting, including the straightaway implement of MLP, RNN, CNN, LSTM, GRU, TCN, VAR, Wavelet (which converts the 1-dim time-series into 2-dim time-frequency diagram then put the Seq2Seq model on it for forecasting) with Pytorch.
 
 ## Platform
 
